@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "new stream",
+      "description": "This is fake, this new stream",
+      "id": 1
+    },
+    {
+      "title": "Programatic edited",
+      "description": "testing programatic navigation with custom history",
+      "id": 4
+    },
+    {
+      "title": "After refactor",
+      "description": "testing, testing",
+      "userId": "102169029759603485101",
+      "id": 5
+    }
+  ]
+}
